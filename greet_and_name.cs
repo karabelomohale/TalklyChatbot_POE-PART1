@@ -81,7 +81,7 @@ namespace talklyapp
         "browser safety"
     };
 
-            string[] responses = {
+            string[] responses = { 
         "I'm doing great! Thanks for asking ",
         "My purpose is to help you learn about software development and stay safe online.",
         "Here are some tips:\n- Use strong passwords\n- Avoid suspicious links\n- Keep software updated",
