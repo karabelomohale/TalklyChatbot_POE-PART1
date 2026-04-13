@@ -23,7 +23,7 @@ namespace talklyapp
         private void voice()
         {//start of voice method
          //get the full path replace of Debug/bin/
-            string fullpath = path.Replace(@"bin\Debug\", "");
+            string fullpath = path.Replace(@"bin\Debug\", ""); 
 
             //play sound
             string joined_path = fullpath + "Voice Greeting.wav"; ;
